@@ -31,7 +31,7 @@
     "Desc": "This circuit takes in a signal, and if a 3V 25kHz component is present, it will turn on an LED.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P1Main.png",
-    "DetailImages": ["setup.png","scope_0.jpg","LED turns on.png"]
+    "DetailImages": ["setup.png","scope_0.png","LED turns on.png"]
   }
   
 }
