@@ -24,13 +24,13 @@
   "EmploymentText": "Use this to add some narrative to your employment section",
   "Skills": ["skill 1" , "skill 2", "skill 3"],
   "SkillsText": "Use this to add some narrative to your skills section",
-  "Resume": "student-resume.pdf"  
+  "Resume": "Resume Sam Vick.pdf"  
 },
 "Project1": {
     "Title": "25 kHz Filter",
     "Desc": "This circuit takes in a signal, and if a 3V 25kHz component is present, it will turn on an LED.",
     "GitHubRepo": "https://github.com",
-    "MainImage": "P1Main.png",
+    "MainImage": "setup.png",
     "DetailImages": ["setup.png","scope_0.png","LED turns on.png"]
   }
   
