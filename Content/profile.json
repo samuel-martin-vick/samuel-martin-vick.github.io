@@ -16,19 +16,19 @@
 "Experience": {
   "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
   "School": "Seattle Pacific University",
-  "Major": "Computer Science",
-  "Graduation": "June 2023",
+  "Major": "Electrical Engineering",
+  "Graduation": "June 2027",
   "EducationText": "Use this to add some narrative to your education section",
-  "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
+  "Employment": "North Seattle College",
+  "Role": "Math and Physics Tutor",
   "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
+  "Skills": ["skill 1" , "skill 2", "skill 3"],
   "SkillsText": "Use this to add some narrative to your skills section",
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
+    "Title": "25 kHz Filter",
+    "Desc": "This circuit takes in a signal, and if a 3V 25kHz component is present, it will turn on an LED.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
