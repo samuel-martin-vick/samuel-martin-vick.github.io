@@ -137,7 +137,7 @@ body {
 }
 
 .project-detail h2 {
-    color: #333;
+    color: yellow;
     font-size: 2rem;
     margin-bottom: 1rem;
 }
@@ -169,13 +169,13 @@ project-detail a {
 }
 
 .about-section h2 {
-    color: #333;
+    color: red;
     font-size: 20px;
     margin-bottom: 10px;
 }
 
 .about-section p {
-    color: #666;
+    color: #000080;
     font-size: 16px;
 }
 .about-me-image {
@@ -196,14 +196,14 @@ project-detail a {
 }
 
 #pfAboutName {
-    color: #333;
+    color: pink;
     font-size: xx-large;
     font-weight: bold;
     margin-top: 20px;
 }
 
 #pfAboutTitle {
-    color: #666;
+    color: blue;
     font-size: x-large;
     margin-top: 10px;
 }
