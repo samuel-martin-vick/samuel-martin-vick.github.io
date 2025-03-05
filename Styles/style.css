@@ -59,7 +59,7 @@ body {
 }
 
 .menu-list li:hover {
-    background-color: #555;
+    background-color: purple; /* left side */
     transition: color 0.3s ease, background-color 0.3s ease;
     cursor: pointer;
 }
@@ -104,7 +104,7 @@ body {
     height: auto;
     margin: 2rem;
     padding: 1rem;
-    background-color: #f2f2f2;
+    background-color: orange;
     border-radius: .5rem;
     display: flex;
     flex-direction: row;
@@ -218,7 +218,7 @@ project-detail a {
 .experience-section {
     margin: 2rem;
     padding: 1rem;
-    background-color: red;
+    background-color: green; /* the boxes in experience section*/
     border-radius: 5px;
     /* height: 25%; */
 }
@@ -268,7 +268,7 @@ project-detail a {
     top: 5%;
     margin: 0 auto;
     padding: 0 .5rem 1rem .5rem;
-    background-color: green;
+    background-color: white;
 }
   
 #imgList img {
