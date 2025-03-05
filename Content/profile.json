@@ -29,7 +29,7 @@
 "Project1": {
     "Title": "25 kHz Filter",
     "Desc": "This circuit takes in a signal, and if a 3V 25kHz component is present, it will turn on an LED.",
-    "GitHubRepo": "https://github.com",
+    "GitHubRepo": "https://github.com/samuel-martin-vick/25-kHz-Filter-Project",
     "MainImage": "setup.png",
     "DetailImages": ["setup.png","scope_0.png","LED turns on.png"]
   }
