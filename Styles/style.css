@@ -59,7 +59,7 @@ body {
 }
 
 .menu-list li:hover {
-    background-color: purple; /* left side */
+    background-color: purple; /* left side  when hovering*/
     transition: color 0.3s ease, background-color 0.3s ease;
     cursor: pointer;
 }
@@ -104,7 +104,7 @@ body {
     height: auto;
     margin: 2rem;
     padding: 1rem;
-    background-color: orange;
+    background-color: #ffc040; /* project boxes */
     border-radius: .5rem;
     display: flex;
     flex-direction: row;
@@ -218,7 +218,7 @@ project-detail a {
 .experience-section {
     margin: 2rem;
     padding: 1rem;
-    background-color: green; /* the boxes in experience section*/
+    background-color: #00ff7f; /* the boxes in experience section*/
     border-radius: 5px;
     /* height: 25%; */
 }
