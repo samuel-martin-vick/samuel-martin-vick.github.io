@@ -218,7 +218,7 @@ project-detail a {
 .experience-section {
     margin: 2rem;
     padding: 1rem;
-    background-color: #f2f2f2;
+    background-color: red;
     border-radius: 5px;
     /* height: 25%; */
 }
@@ -268,7 +268,7 @@ project-detail a {
     top: 5%;
     margin: 0 auto;
     padding: 0 .5rem 1rem .5rem;
-    background-color: white;
+    background-color: green;
 }
   
 #imgList img {
