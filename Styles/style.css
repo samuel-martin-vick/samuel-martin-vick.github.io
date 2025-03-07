@@ -20,7 +20,7 @@ body {
     flex-direction: column;
     width: 15%;
     /* background-color: #333; */
-    background: linear-gradient(orange, purple);
+    background: linear-gradient(orange, green);
     text-align: left;
     padding-top: 10px;
     position: fixed;
@@ -68,7 +68,7 @@ body {
     font-size: x-large;
     font-weight: bold;
     text-decoration: none;
-    color: fuschia;
+    color: black; /*left menu text color */
 }
 
 .icons {
