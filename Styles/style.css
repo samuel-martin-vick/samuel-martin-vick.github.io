@@ -137,13 +137,13 @@ body {
 }
 
 .project-detail h2 {
-    color: yellow;
+    color: black; /* project title */
     font-size: 2rem;
     margin-bottom: 1rem;
 }
 
 .project-detail p {
-    color: brown;
+    color: black; /*?project text*/
     font-size: 1.6rem;
     margin-bottom: 1rem;
 }
@@ -169,13 +169,13 @@ project-detail a {
 }
 
 .about-section h2 {
-    color: red;
+    color: black; /* about me section headers */
     font-size: 20px;
     margin-bottom: 10px;
 }
 
 .about-section p {
-    color: navy;
+    color: black; /*paragraph text in about me */
     font-size: 16px;
 }
 .about-me-image {
@@ -196,14 +196,14 @@ project-detail a {
 }
 
 #pfAboutName {
-    color: pink;
+    color: black; /* large text of my name in about me */
     font-size: xx-large;
     font-weight: bold;
     margin-top: 20px;
 }
 
 #pfAboutTitle {
-    color: blue;
+    color: black; /*text under my name in about me */
     font-size: x-large;
     margin-top: 10px;
 }
@@ -245,7 +245,7 @@ project-detail a {
 
 .experience-section p {
     margin: 0.5rem;
-    color: olive;
+    color: black; /* paragraph in experience section */
     font-size: 1.5rem;
 }
 
