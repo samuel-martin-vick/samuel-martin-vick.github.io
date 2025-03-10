@@ -104,7 +104,7 @@ body {
     height: auto;
     margin: 2rem;
     padding: 1rem;
-    background-color: #lightblue; /* project boxes */
+    background-color: lightblue; /* project boxes */
     border-radius: .5rem;
     display: flex;
     flex-direction: row;
@@ -218,7 +218,7 @@ project-detail a {
 .experience-section {
     margin: 2rem;
     padding: 1rem;
-    background-color: #lightblue; /* the boxes in experience section*/
+    background-color: lightblue; /* the boxes in experience section*/
     border-radius: 5px;
     /* height: 25%; */
 }
