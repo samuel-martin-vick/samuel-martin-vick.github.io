@@ -18,12 +18,12 @@
   "School": "Seattle Pacific University",
   "Major": "Electrical Engineering",
   "Graduation": "June 2027",
-  "EducationText": "Use this to add some narrative to your education section",
+  "EducationText": "",
   "Employment": "North Seattle College",
   "Role": "Math and Physics Tutor",
   "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["skill 1" , "skill 2", "skill 3"],
-  "SkillsText": "Use this to add some narrative to your skills section",
+  "Skills": [],
+  "SkillsText": "",
   "Resume": "Resume Sam Vick.pdf"  
 },
 "Project1": {
