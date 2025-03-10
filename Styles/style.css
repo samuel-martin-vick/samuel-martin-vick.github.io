@@ -20,7 +20,7 @@ body {
     flex-direction: column;
     width: 15%;
     /* background-color: #333; */
-    background: linear-gradient(orange, green);
+    background: linear-gradient(lightblue, green);
     text-align: left;
     padding-top: 10px;
     position: fixed;
