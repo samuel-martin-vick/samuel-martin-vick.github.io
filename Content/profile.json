@@ -8,7 +8,7 @@
 },
 "Contact": {
   "EMail": "samuel.martin.vick@gmail.com",
-  "Phone": "(206) 536-0885",
+  "Phone": "",
   "Portfolio": "https://www.github.com",
   "LinkedIn": "https://en.wikipedia.org/wiki/HTTP_404",
   "GitHub": "https://github.com/samuel-martin-vick"
@@ -24,7 +24,7 @@
   "EmploymentText": "",
   "Skills": [],
   "SkillsText": "",
-  "Resume": "Resume Sam Vick.pdf"  
+  "Resume": "Vick Sam Resume Portfolio.docx"  
 },
 "Project1": {
     "Title": "25 kHz Filter",
