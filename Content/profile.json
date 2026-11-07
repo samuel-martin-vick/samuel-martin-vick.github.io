@@ -37,7 +37,7 @@
     "Title": "Dual-Adjustable-Power-Supply-with-Multiple-Output-Levels",
     "Desc": "This board takes a 120V AC input and uses several linear regulators (and one op amp) to create seven output voltage levels",
     "GitHubRepo": "https://github.com/samuel-martin-vick/Dual-Adjustable-Power-Supply-with-Multiple-Output-Levels",
-    "MainImage": "setup.png",
-    "DetailImages": ["setup.png","scope_0.png","LED turns on.png"]
+    "MainImage": "elec1PCBphoto.jpg",
+    "DetailImages": ["elec1PCBphoto.jpg","elec1altiumtraces.png","elec1breadboard.jpg"]
   }
 }
