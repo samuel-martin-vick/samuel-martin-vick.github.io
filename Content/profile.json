@@ -45,7 +45,7 @@
     "Desc": "This board has two separate converter. One is a flyback converter that converts 120VAC to 3.3V DC. The other converts 12VAC to a variable 1.2V to 5.2V output",
     "GitHubRepo": "https://github.com/samuel-martin-vick/Flyback-Converter-and-Buck-Booster",
     "MainImage": "elec2PCBphoto.jpg",
-    "DetailImages": ["elec2PCBphoto.jpg", "voltagereadout.png", "flybackschematic.png"]
+    "DetailImages": ["elec2PCBphoto.jpg", "voltage readout.png", "flyback schematic.png"]
   },
   "Project4": {
     "Title": "Buck Converter 24V to 5V 5A",
