@@ -22,9 +22,9 @@
   "Employment": "North Seattle College",
   "Role": "Math and Physics Tutor",
   "EmploymentText": "",
-  "Skills": [],
+  "Skills": [LTspice, Altium, PSCAD, SolidWorks, Word, Excel, PowerPoint, Git, MATLAB, Python, C++],
   "SkillsText": "",
-  "Resume": "Vick Sam Resume Portfolio.docx"  
+  "Resume": "Vick Sam Resume Portfolio.pdf"  
 },
 "Project1": {
     "Title": "25 kHz Filter",
