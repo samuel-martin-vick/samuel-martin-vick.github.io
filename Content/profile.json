@@ -49,9 +49,9 @@
   }
   "Project4": {
     "Title": "Buck Converter 24V to 5V 5A",
-    "Desc": "",
-    "GitHubRepo": "",
+    "Desc": "Designed circuit in Altium, soldered through-hole components on PCB, and tested circuit output up to 5A successfully.",
+    "GitHubRepo": "https://github.com/samuel-martin-vick/Buck-Converter-5A",
     "MainImage": "juniorPCB.jpg",
-    "DetailImages": []
+    "DetailImages": ["juniorPCB.jpg", "5Aoutput.jpg", "juniorPCBlayout.png"]
   }
 }
